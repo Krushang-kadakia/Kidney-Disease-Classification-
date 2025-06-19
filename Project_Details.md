@@ -41,7 +41,7 @@
 
 Kidney tumours (also called renal tumors) are growth in the kidneys that can be benign or cancerous. Most do not cause symptoms and are discovered unexpectedly when you are being diagnosed and treated for another condition.
 
-![Normal vs Tumor](Images\1.png)
+![Normal vs Tumor](Kidney-Disease-Classification-\Images\1.png)
 
 GitHub Repository Setup Steps
 
