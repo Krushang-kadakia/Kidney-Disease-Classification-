@@ -77,3 +77,23 @@ Create a template.py file inside the project folder and create the project templ
     ```
 
 ## Section 3 Project Setup & Requirements Installation
+
+1. In the requirement file list down the dependencies with the version where ever required. Some of the examples are gdown to read data from the google drive and -e . is used to install the current directory in editable mode as a local package 
+2. Create the setup.py file by providing the personal details 
+3. Create a virtual environment of python version 3.10 using the following command
+    ```bash
+    py -3.10 -m venv <env_name>
+    ```
+4. Activate the environtment using the following command
+    ```bash
+    .\<env_name>\Scripts\Activate.ps1
+    ```
+5. Install the dependency in the virtual environment using the below command
+    ```bash
+    pip install -r requirements.txt
+    ```
+6. To decativate the environment just type the folowing command in the terminal
+    ```bash
+    deactivate
+    ```
+    
