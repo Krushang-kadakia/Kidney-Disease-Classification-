@@ -77,6 +77,7 @@ Create a template.py file inside the project folder and create the project templ
     ```
 
 ## Section 3 Project Setup & Requirements Installation
+<<<<<<< HEAD
 
 1. In the requirement file list down the dependencies with the version where ever required. Some of the examples are gdown to read data from the google drive and -e . is used to install the current directory in editable mode as a local package 
 2. Create the setup.py file by providing the personal details 
@@ -97,3 +98,5 @@ Create a template.py file inside the project folder and create the project templ
     deactivate
     ```
     
+=======
+>>>>>>> 9e4e193961b093fe8009d04a62daecfae7e53af9
