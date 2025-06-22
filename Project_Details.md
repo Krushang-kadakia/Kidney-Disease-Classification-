@@ -96,3 +96,8 @@ Create a template.py file inside the project folder and create the project templ
     ```bash
     deactivate
     ```
+
+## Section 4 Creating Logging, Utils & Exception Module
+
+1. Inside the Kidney_Tumor_Classifier folder inside src folder the constructor file ( \_\_init\_\_.py) is used to to create the logger so that less amount of import is required while using it
+2. Inside the utils folder inside the Kidney_Tumor_Classifier folder inside src folder create a file common.py to handle exceptions
